@@ -3,9 +3,10 @@
 **Decodificador de Texto**
 
 ---
-Este projeto é um decodificador de texto simples desenvolvido como parte de um desafio de programação. Ele permite que você criptografe e descriptografe mensagens de texto usando a Cifra de César.
+Este projeto é um decodificador de texto simples desenvolvido como parte de um desafio de programação. 
+Ele permite que você criptografe e descriptografe mensagens de texto usando a Cifra de César.
 
-###**Funcionalidades**
+**Funcionalidades**
 ---
 Criptografia: Codifica um texto de entrada usando a Cifra de César com um deslocamento predefinido.
 Descriptografia: Decodifica um texto criptografado usando a Cifra de César com o mesmo deslocamento usado na criptografia.
@@ -28,8 +29,6 @@ O deslocamento da Cifra de César é fixo e não pode ser alterado pelo usuário
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
 
-Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.   
 ---
 Contato
 Moacir D.S Junior
