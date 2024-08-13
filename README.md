@@ -6,7 +6,7 @@
 Este projeto é um decodificador de texto simples desenvolvido como parte de um desafio de programação. 
 Ele permite que você criptografe e descriptografe mensagens de texto usando a Cifra de César.
 
-###**Funcionalidades**
+**Funcionalidades**
 ---
 Criptografia: 
 Codifica um texto de entrada usando a Cifra de César com um deslocamento predefinido.
