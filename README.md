@@ -1,9 +1,12 @@
 # Alura Challenge #1 | Oracle One | Decodificador de texto
 
 Decodificador de Texto
+
+---
 Este projeto é um decodificador de texto simples desenvolvido como parte de um desafio de programação. Ele permite que você criptografe e descriptografe mensagens de texto usando a Cifra de César.
 
 Funcionalidades
+---
 Criptografia: Codifica um texto de entrada usando a Cifra de César com um deslocamento predefinido.
 Descriptografia: Decodifica um texto criptografado usando a Cifra de César com o mesmo deslocamento usado na criptografia.
 Validação de Entrada: Garante que apenas letras minúsculas e sem acento sejam inseridas no campo de texto.
